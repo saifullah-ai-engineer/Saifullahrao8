@@ -1,20 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Uploading OIP.jpg…]()
 
 
 ## 🌐 Socials:
