@@ -6,11 +6,11 @@
 ###
 - 🌱 I’m currently learning Generative AI *NLP , Computer vision*
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sharjeeyl](https://github.com/Sharjeeyl)
+- 👨‍💻 All of my projects are available at (https://github.com/Saifullahrao8)
 
 - 💬 Ask me about *AI*
 
-- 📫 How to reach me *sharjeeljaved95@gmail.com*
+- 📫 How to reach me *saifullahrao089@gmail.com*
 
 - ⚡ Fun fact *I am lazy ambitious Guy*
 
