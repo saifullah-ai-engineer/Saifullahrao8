@@ -1,4 +1,22 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%F0%9D%90%92%F0%9D%90%80%F0%9D%90%88%F0%9D%90%85-%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%87-182073214/) 
 
