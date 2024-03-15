@@ -6,7 +6,7 @@
 ###
 - 🌱 I’m currently learning Generative AI *NLP , Computer vision*
 
-- 👨‍💻 All of my projects are available at (https://github.com/Saifullahrao8)
+- 👨‍💻 All of my projects are available at [https://github.com/Saifullahrao8]
 
 - 💬 Ask me about *AI*
 
