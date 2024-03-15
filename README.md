@@ -1,6 +1,18 @@
+<img align="center" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3cWJyM3NpMnV2czJ2dXN1ZDV2M2N0cW9xdHMwOW9laWx0Y2x4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif"  />
+<h1 align="center">Hi 👋, I'm Saif Ullah </h1>
+<h3 align="center">A passionate AI Engineer from Pakistan</h3>
+<img align = "right" alt = "lazy Sherry coding " width = "400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBreDJqdXd1OTB2MTMwcDg1aDZlNXRuYjEycWdycTZucG9ramNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
 
-![Uploading OIP.jpg…]()
+###
+- 🌱 I’m currently learning Generative AI *NLP , Computer vision*
 
+- 👨‍💻 All of my projects are available at [https://github.com/Sharjeeyl](https://github.com/Sharjeeyl)
+
+- 💬 Ask me about *AI*
+
+- 📫 How to reach me *sharjeeljaved95@gmail.com*
+
+- ⚡ Fun fact *I am lazy ambitious Guy*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%F0%9D%90%92%F0%9D%90%80%F0%9D%90%88%F0%9D%90%85-%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%87-182073214/) 
